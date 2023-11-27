@@ -1,0 +1,14 @@
+{
+    "users": [
+      {
+        "password": "dfdfdf",
+        "email": "example1@skcet.ac.in",
+        "id": 1
+      },
+      {
+        "password": "Arun@2407",
+        "email": "example2@skcet.ac.in",
+        "id": 2
+      }
+    ]
+  }
